@@ -4,4 +4,4 @@ services:
     type: LinkerdMesh
     namespace: linkerd-system
     settings:
-      version:  #will be inserted dynamically
+      version: edge-21.12.3 #will be inserted dynamically
